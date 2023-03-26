@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Chrome Extension with React & Webpack",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "name": "FairView",
+  "description": "A chrome extension that uses ChatGPT to provide context and counterarguments to articles in order to foster dialogue between communitites.",
   "options_page": "options.html",
   "background": { "service_worker": "background.bundle.js" },
   "action": {
